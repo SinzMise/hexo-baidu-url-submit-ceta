@@ -1,0 +1,33 @@
+{
+  "name": "hexo-baidu-url-submit-ceta",
+  "version": "0.0.6",
+  "description": "submit new posts urls to baidu search engine",
+  "main": "index",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SinzMise/hexo-baidu-url-submit-ceta.git"
+  },
+
+  "keywords": [
+    "hexo",
+    "deployer",
+    "baidu",
+    "url",
+    "submit",
+    "seo"
+  ],
+
+  "author": {
+    "name": "SinzMise",
+    "email": "email@sinzmise.top",
+    "url": "https://blog.sinzmise.top/"
+  },
+
+  "license": "MIT",
+
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
